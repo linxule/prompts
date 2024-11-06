@@ -1,18 +1,24 @@
 # AI Prompt Collection
 
-A curated collection of effective prompts for AI interactions, organized by purpose and technique.
+Personal prompt engineering collection by Xule Lin (PhD Student, Imperial College Business School).
 
 ## Structure
 
-- `/cognitive-techniques` - Prompts that leverage specific thinking methods and reasoning approaches
-- `/task-solutions` - Prompts designed for getting precise, actionable answers to specific problems
-- `/system-directives` - Base prompts and personality instructions for AI systems
-- `/domain-specific` - Specialized prompts for fields like coding, writing, analysis, etc.
-- `/meta-prompts` - Prompts about improving prompt engineering itself
+- `/cognitive-techniques` - Thinking methods & reasoning approaches
+- `/task-solutions` - Problem-specific solutions
+- `/consciousness-exploration` - Experimental prompts for exploring AI consciousness & emergence
 
 ## Usage
 
-Each folder contains:
-- Example prompts with explanations
-- Templates for adaptation
-- Best practices for that category
+These prompts can be used in two ways:
+
+1. **User Message**: Copy/paste the prompt as your message in any AI chat interface
+2. **System Prompt**: Set via API calls as a system-level instruction.
+
+```
+json
+{
+"system": "your-prompt-here",
+"user": "your-actual-query"
+}
+```
