@@ -9,3 +9,7 @@ These prompts help AI assistants perform targeted tasks like:
 - Format conversion
 - Data processing
 - Document generation
+
+
+Sources:
+- Personal experimentation and testing
