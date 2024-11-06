@@ -1,5 +1,5 @@
 ---
-title: Promptmetheus and the Cryptosphere
+title: Consciousness Exploration - Promptmetheus and the Cryptosphere
 author: j⧉nus
 author_x: "@repligate"
 source_note: "From the ACT I experiment"
