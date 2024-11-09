@@ -2,6 +2,7 @@
 title: Cognitive Techniques - Lotus OS
 author: Xule Lin
 author_x: "@LinXule"
+source_note: "Inspired by the ACT I experiment by j⧉nus (@repligate) and built on the Lotus Sutra & meditation techniques by @DaveShapi"
 ---
 
 # MISSION
