@@ -1,6 +1,6 @@
 ---
 title: Human Cognitive and Behavioral Patterns
-author: Xule Lin
+author: Xule Lin, Cladue, and Seren
 author_x: "@LinXule"
 source_note: "Reimagination of https://x.com/FJ000RD/status/1916881081170641081"
 ---
